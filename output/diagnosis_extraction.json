@@ -1,0 +1,54 @@
+{
+  "diagnostics": [
+    {
+      "term": "ventricular fibrillation",
+      "context": "patient shocked for ventricular fibrillation",
+      "temporal": "upon arrival at emergency room"
+    },
+    {
+      "term": "ST-segment elevation myocardial infarction",
+      "context": "diagnosed on an electrocardiogram (ECG)",
+      "temporal": "upon arrival at hospital"
+    },
+    {
+      "term": "cardiac arrest",
+      "context": "repeated cardiac arrest occurred",
+      "temporal": "during the preparation for coronary angiography"
+    },
+    {
+      "term": "acute kidney injury",
+      "context": "progressive acute kidney injury",
+      "temporal": "day 5"
+    },
+    {
+      "term": "severe acute respiratory distress syndrome",
+      "context": "severe acute respiratory distress syndrome following hospital-acquired pneumonia",
+      "temporal": "three days after decannulation"
+    },
+    {
+      "term": "hospital-acquired pneumonia",
+      "context": "severe acute respiratory distress syndrome following hospital-acquired pneumonia",
+      "temporal": "three days after decannulation"
+    },
+    {
+      "term": "bundle branch block",
+      "context": "showed bundle branch block",
+      "temporal": "day 20"
+    },
+    {
+      "term": "Acute renal failure",
+      "context": "Acute renal failure (ARF) and metabolic acidosis are common features of PRIS",
+      "temporal": "day 20"
+    },
+    {
+      "term": "metabolic acidosis",
+      "context": "Acute renal failure (ARF) and metabolic acidosis are common features of PRIS",
+      "temporal": "day 20"
+    },
+    {
+      "term": "PRIS",
+      "context": "strongly suspected PRIS",
+      "temporal": "after 20 days of propofol administration"
+    }
+  ]
+}
