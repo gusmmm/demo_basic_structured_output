@@ -9,7 +9,7 @@ This project extracts structured medical diagnoses from unstructured clinical te
 ## Features
 
 - **Text Preprocessing**: Cleans and normalizes medical text files
-- **AI-Powered Extraction**: Uses Gemini 2.0 Flash for intelligent diagnosis identification
+- **AI-Powered Extraction**: Uses Gemini 2.5 Flash for intelligent diagnosis identification
 - **Structured Output**: Returns JSON with term, context, and temporal aspects
 - **Pydantic Validation**: Ensures data quality and type safety
 - **Beautiful Terminal Output**: Color-coded results with emojis for better readability

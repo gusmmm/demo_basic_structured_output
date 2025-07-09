@@ -71,7 +71,7 @@ def main():
         
         print("🔍 Extracting medical diagnoses using AI...")
         response = client.models.generate_content(
-            model="gemini-2.0-flash-exp", 
+            model="gemini-2.5-flash", 
             contents="Extract all medical diagnoses from the following text. Return a JSON list of diagnoses with their context and temporal aspects.\n\n" + processed_text,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",

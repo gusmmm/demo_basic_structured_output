@@ -2,53 +2,88 @@
   "diagnostics": [
     {
       "term": "ventricular fibrillation",
-      "context": "patient shocked for ventricular fibrillation",
-      "temporal": "upon arrival at emergency room"
+      "context": "Emergency rescue technicians performed 20 seconds of cardiopulmonary resuscitation after shocking for ventricular fibrillation",
+      "temporal": "on the way to the emergency room"
     },
     {
       "term": "ST-segment elevation myocardial infarction",
-      "context": "diagnosed on an electrocardiogram (ECG)",
-      "temporal": "upon arrival at hospital"
+      "context": "He was diagnosed with ST-segment elevation myocardial infarction on an electrocardiogram (ECG)",
+      "temporal": "Upon arrival at our hospital"
     },
     {
-      "term": "cardiac arrest",
+      "term": "repeated cardiac arrest",
       "context": "repeated cardiac arrest occurred",
-      "temporal": "during the preparation for coronary angiography"
+      "temporal": "During the preparation for coronary angiography"
     },
     {
-      "term": "acute kidney injury",
-      "context": "progressive acute kidney injury",
-      "temporal": "day 5"
+      "term": "total occluded left anterior descending coronary artery",
+      "context": "Percutaneous coronary intervention reperfused the total occluded left anterior descending coronary artery via thrombectomy",
+      "temporal": "During percutaneous coronary intervention"
+    },
+    {
+      "term": "progressive acute kidney injury",
+      "context": "he presented with progressive acute kidney injury",
+      "temporal": "On day 5"
     },
     {
       "term": "severe acute respiratory distress syndrome",
-      "context": "severe acute respiratory distress syndrome following hospital-acquired pneumonia",
-      "temporal": "three days after decannulation"
+      "context": "due to severe acute respiratory distress syndrome following hospital-acquired pneumonia",
+      "temporal": "Three days after decannulation"
     },
     {
       "term": "hospital-acquired pneumonia",
-      "context": "severe acute respiratory distress syndrome following hospital-acquired pneumonia",
-      "temporal": "three days after decannulation"
+      "context": "following hospital-acquired pneumonia",
+      "temporal": "Three days after decannulation"
+    },
+    {
+      "term": "agitation",
+      "context": "Sedatives for ventilator care were retained without dose reduction due to agitation",
+      "temporal": "On day 16"
+    },
+    {
+      "term": "ventilator dyssynchrony",
+      "context": "Sedatives for ventilator care were retained without dose reduction due to ventilator dyssynchrony",
+      "temporal": "On day 16"
     },
     {
       "term": "bundle branch block",
-      "context": "showed bundle branch block",
-      "temporal": "day 20"
+      "context": "he showed bundle branch block",
+      "temporal": "On day 20"
     },
     {
-      "term": "Acute renal failure",
-      "context": "Acute renal failure (ARF) and metabolic acidosis are common features of PRIS",
-      "temporal": "day 20"
+      "term": "increased creatinine kinase (CK)",
+      "context": "increased creatinine kinase (CK), and increased CK-MB and troponin I",
+      "temporal": "On day 20, consistently increased until day 27, continued to elevate to 139,066 IU/L"
+    },
+    {
+      "term": "increased CK-MB",
+      "context": "increased CK-MB and troponin I",
+      "temporal": "On day 20"
+    },
+    {
+      "term": "increased troponin I",
+      "context": "increased CK-MB and troponin I",
+      "temporal": "On day 20"
+    },
+    {
+      "term": "suddenly aggravated hypotension",
+      "context": "Due to suddenly aggravated hypotension, we increased the infusion rate of norepinephrine and epinephrine and added vasopressin",
+      "temporal": "On day 20"
+    },
+    {
+      "term": "Acute renal failure (ARF)",
+      "context": "Acute renal failure (ARF) and metabolic acidosis are common features of PRIS, but they were attenuated to the previously maintained CRRT",
+      "temporal": "during PRIS episode"
     },
     {
       "term": "metabolic acidosis",
-      "context": "Acute renal failure (ARF) and metabolic acidosis are common features of PRIS",
-      "temporal": "day 20"
+      "context": "Acute renal failure (ARF) and metabolic acidosis are common features of PRIS, but they were attenuated to the previously maintained CRRT",
+      "temporal": "during PRIS episode"
     },
     {
       "term": "PRIS",
-      "context": "strongly suspected PRIS",
-      "temporal": "after 20 days of propofol administration"
+      "context": "We strongly suspected PRIS and immediately discontinued propofol infusion",
+      "temporal": "suspected on day 20, recovery starting day 23"
     }
   ]
 }
